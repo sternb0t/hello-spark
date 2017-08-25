@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# don't include oreilly data here
+data/
+
+# spark metastore
+metastore_db/
